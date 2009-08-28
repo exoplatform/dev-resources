@@ -15,10 +15,10 @@
    <name>eXo JBoss Dev Resources</name>
    <description>Development Resources for eXo Jboss</description>
 
+   <scm>
+      <connection>scm:svn:http://anonsvn.jboss.org/repos/exo-jcr/dev-resources/trunk</connection>
+      <developerConnection>scm:svn:https://svn.jboss.org/repos/exo-jcr/dev-resources/trunk</developerConnection>
+      <url>http://fisheye.jboss.org/browse/exo-jcr/dev-resources/trunk</url>
+   </scm>
 
-  <scm>
-    <connection>scm:svn:http://svn.exoplatform.org/projects/exorh/exo-jcr/parent/tags/1.2.0</connection>
-    <developerConnection>scm:svn:http://svn.exoplatform.org/projects/exorh/exo-jcr/parent/tags/1.2.0</developerConnection>
-    <url>http://fisheye.exoplatform.org/browse/projects-internal/exorh/exo-jcr/parent/tags/1.2.0</url>
-  </scm>
 </project>
