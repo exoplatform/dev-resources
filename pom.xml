@@ -8,7 +8,7 @@
       <version>2</version>
    </parent>
 
-   <groupId>org.exoplatform.tools</groupId>
+   <groupId>org.exoplatform.tool</groupId>
    <artifactId>dev-resources</artifactId>
    <version>1.2.0</version>
 
