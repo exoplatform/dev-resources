@@ -16,9 +16,9 @@
    <description>Development Resources for eXo Jboss</description>
 
    <scm>
-      <connection>scm:svn:http://anonsvn.jboss.org/repos/exo-jcr/dev-resources/trunk</connection>
-      <developerConnection>scm:svn:https://svn.jboss.org/repos/exo-jcr/dev-resources/trunk</developerConnection>
-      <url>http://fisheye.jboss.org/browse/exo-jcr/dev-resources/trunk</url>
+      <connection>scm:git:ssh://github.com/exodev/dev-resources.git</connection>
+      <developerConnection>scm:git:ssh://github.com/exodev/dev-resources.git</developerConnection>
+      <url>http://fisheye.jboss.org/browse/exo-jcr/dev-resources</url>
    </scm>
 
 </project>
