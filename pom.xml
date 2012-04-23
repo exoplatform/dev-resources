@@ -16,8 +16,8 @@
    <description>Development Resources for eXo Jboss</description>
 
    <scm>
-      <connection>scm:git:ssh://github.com/exodev/dev-resources.git</connection>
-      <developerConnection>scm:git:ssh://github.com/exodev/dev-resources.git</developerConnection>
+      <connection>scm:git:git://github.com/exoplatform/dev-resources.git</connection>
+      <developerConnection>scm:git:git@github.com/exoplatform/dev-resources.git</developerConnection>
       <url>http://fisheye.jboss.org/browse/exo-jcr/dev-resources</url>
    </scm>
 
